@@ -2,7 +2,7 @@
 Map-editor Created during the 6th week of  bootcamp, it is a simple painter, where you use your keyboard to move your square and to paint the intended cell. The library used was SimpleGfx.
 
 ## Release
-Trying to find time to improve on this project .
+Trying to find time to improve on this project.
 
 ## Roadmap
 
