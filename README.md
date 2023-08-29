@@ -1,10 +1,12 @@
-# MapEditor
+## MapEditor.
+
 Map-editor Created during the 6th week of  bootcamp, it is a simple painter, where you use your keyboard to move your square and to paint the intended cell. The library used was SimpleGfx.
 
-## Release
+## Release.
+
 Trying to find time to improve on this project.
 
-## Roadmap
+## Roadmap.
 
 <ul>
   <li>Add start menu;</li>
@@ -13,10 +15,10 @@ Trying to find time to improve on this project.
 
 </ul>
 
-## Status
+## Status.
 <span style="color: green"> Working on it </span>
 
-## Screenplay
+## Screenplay.
 <p align="center">
   <img src="https://i.imgur.com/1dAL1Gg.gif" >
 </p>
